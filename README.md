@@ -1,8 +1,7 @@
 
   # Landing Page Design
 
-  This is a code bundle for Landing Page Design. The original project is available at https://www.figma.com/design/3V6i5UyPH5WECnU4FZ14vQ/Landing-Page-Design.
-
+  This is a code bundle for Landing Page Design. It was made as a protoype.
   ## Running the code
 
   Run `npm i` to install the dependencies.
